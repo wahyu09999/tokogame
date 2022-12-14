@@ -235,7 +235,7 @@ Detail Game
                         <form method="post" action="{{route('tambah-stok',$buku->id)}}">
                             @csrf
                             <div class="row mb-3">
-                                <label for="fullName" class="col-md-4 col-lg-3 col-form-label">Tambah Stok Buku</label>
+                                <label for="fullName" class="col-md-4 col-lg-3 col-form-label">Tambah Stok Game</label>
                                 <div class="col-md-8 col-lg-9">
                                    <input type="number" min="1" name="jumlah" class="form-control" value="1" >
                                 </div>

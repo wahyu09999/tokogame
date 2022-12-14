@@ -83,7 +83,7 @@ Edit Data Game
                     <div class="row mb-3" id="fotolama">
                         <label for="inputNumber" class="col-sm-2 col-form-label">Foto Lama</label>
                         <div class="col-sm-10">
-                            <img src="{{'https://storage.googleapis.com/rakacloud/'.$buku->gambar}}" width="30%" alt="">
+                            <img src="{{'https://storage.googleapis.com/cloudwrz/'.$buku->gambar}}" width="30%" alt="">
                         </div>
                     </div>
                     <br />

@@ -40,7 +40,7 @@ Detail Game
 
                     <li class="nav-item">
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-edit">Edit
-                            Buku</button>
+                            Game</button>
                     </li>
 
                     <li class="nav-item">
@@ -65,17 +65,17 @@ Detail Game
                         </div>
 
                         <div class="row">
-                            <div class="col-lg-3 col-md-4 label">Pengarang</div>
+                            <div class="col-lg-3 col-md-4 label">Developer</div>
                             <div class="col-lg-9 col-md-8">{{$buku->pengarang}}</div>
                         </div>
 
                         <div class="row">
-                            <div class="col-lg-3 col-md-4 label">Penerbit</div>
+                            <div class="col-lg-3 col-md-4 label">Publiser</div>
                             <div class="col-lg-9 col-md-8">{{$buku->penerbit}}</div>
                         </div>
 
                         <div class="row">
-                            <div class="col-lg-3 col-md-4 label">Tahun Terbit</div>
+                            <div class="col-lg-3 col-md-4 label">Tahun Rilis</div>
                             <div class="col-lg-9 col-md-8">{{$buku->tahun_terbit}}</div>
                         </div>
                         <div class="row">
@@ -116,7 +116,7 @@ Detail Game
                                 </div>
                             </div>
                             <div class="row mb-3">
-                                <label for="inputText" class="col-sm-2 col-form-label">Pengarang</label>
+                                <label for="inputText" class="col-sm-2 col-form-label">Developer</label>
                                 <div class="col-sm-10">
                                     <input type="text" name="pengarang" value="{{$buku->pengarang}}"
                                         class="form-control">

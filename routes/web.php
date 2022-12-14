@@ -23,7 +23,7 @@ use Illuminate\Support\Facades\Artisan;
 //     return view('page.home');
 // });
 Route::get('/mysql', function () {
-    // Artisan::call('migrate:rollback', ['--force' => true]);
+    Artisan::call('migrate:rollback', ['--force' => true]);
     Artisan::call('migrate:fresh', ['--force' => true]);
     Artisan::call('db:seed', ['--force' => true]);
 });

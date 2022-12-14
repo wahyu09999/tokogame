@@ -34,7 +34,7 @@ Home
             <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="{{'https://storage.googleapis.com/rakacloud/'.$isi->gambar}}"
+                        <img src="{{'https://storage.googleapis.com/cloudwrz/'.$isi->gambar}}"
                             style="object-fit:cover; background-size:cover; width:100%;" class="rounded-start"
                             alt="...">
                     </div>

@@ -23,11 +23,10 @@ use Illuminate\Support\Facades\Artisan;
 //     return view('page.home');
 // });
 Route::get('/mysql', function () {
-    Artisan::call('migrate', ['--force' => true]);
+    // Artisan::call('migrate:rollback', ['--force' => true]);
+    Artisan::call('migrate:fresh', ['--force' => true]);
     Artisan::call('db:seed', ['--force'=>true]);
-
 });
-
 
 Route::group(['middleware' =>'guest:login'], function () {
     Route::get('/',[UserController::class,'login'])->name('login');

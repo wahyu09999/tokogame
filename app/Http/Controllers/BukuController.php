@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\DB;
 use Google\Cloud\Storage\StorageClient;
+use Google\Cloud\Core\Exception\NotFoundException;
 use Illuminate\Support\Facades\URL;
 
 class BukuController extends Controller

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-smithy-364213",
+  "private_key_id": "797b229240f45eb6039100318cd321edd1a5d264",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCx5HjCDB29rzMW\nm1l2nzJp2toEWcqEBD+JyY+ticoJtR1qhg4+kXNwqyp9vHGTjWNuq6PFmFkYoFpa\nJS3pRObr5SffmYm+JcUaEXqYa+IGO5VGOAM2S1f1ZAt5eBFjtlvgHyNYVPnJbnHc\nNO383baBDaooTin6kCLPnMx4ca1lbdWnCBob5FB4/2JNvU3ydXu6EOfJWqk9KXa+\nNWdt8uGrN/9nh4xV1h1UW5B61QrDe709nBB2+S/1ujqUDz4tmYq6v6SYrynOJj2K\nukgMjm+s3wrnB2t3pxTqcw7rPxa/tbgLBCojcdLv1nuE16W/D/EX4aplBbrciLDJ\nBJaZvcfZAgMBAAECggEAAXLS3eejc8I1TqORf3lte5zhDH4e4hZqKwkCYiW4IksA\ngPfNYWQltiVN3J8k2jbH3r4uJvay3dQecDn5xseKGghWm9SmlIilTOB9qLfGK/CF\nXZoPddXeuTxcXVvLyA251hhPnVF4ODqHQFI8Nt3z6L1pZSS5ZRVfE/6a0Dp18KVV\nFM9MCgWOsyWa/w9hpPu7wPmju2JvJcJWbL0arQCW+4cnmuDV1m57Zyvn/bzluBgZ\nFHWbRrdPbvkxU3qQCyZ/m3nBBb0UGJDfxu/xibd2oKHLEfgxU6BczMDbEklQ/yYV\nieEvWvBk+I2bNrkiWgd6w2MNMPnmtVxPoZHtuNxJtQKBgQDhnUflwbK2KtS0weae\ni8NwrwaECOJ9UX+C1h1ix+vgaZ2Y1sxaVQtmwK82asNxV3TLlwzjTPuSLkzAV6pr\nt1IhZxvdRCnzC29EbPFOCTS4msJMCRLW5IfhrTWgLyx3VaF0QiBKwLbreKfnTCWg\nQfBR3pn4eNeuM6HWxIf/oGjjJQKBgQDJ2dZwmHZiM1keGpzOKvUjMVM0/fYOtYkB\nCceorxxJnOAD99OhErMkgHrvYH+eXfy9C9uN0NeTO6yPbdV49wOsBQJOtZcdXMQA\nL8naG253Muo03u7A8G6CKzMz5r/O2daIEMnCZjtwZsM8D0XhuDWe2ych/qcKftJG\nnDEiYmiNpQKBgB22b/yTOO0C0QaJLs0cjP2vH0WOQf3NGOTrO+2BdNAWOLojN8CB\nyMGciLa68shfgzM4zmq0/cCvtk3yfbA38WoSwTmvu3KVw+6YBmOHlNjnEMWgwElq\nyXZwMErLS6jfrya3erc9kBmMx1gP0Di91l+B2Hc/uu/nPt4g/eQthQK9AoGAJm9L\nTM9LI3HBk2Df4MX/PX9D58A/3RcmCkOReAY37bBoW3kSHAaSg+3O+su2ITKmUFz0\npnFQyyE+v2TblBf85AFkKhabuqSSUbLHzbcRdrMEM6MLdUOS10hgjI5wkXObTPdd\nY53RzZpTrJj/5nYMB76VGf0CU5ZIddeB55kzbV0CgYAhdqxsOUJl03OFRmJAqeWa\n+DZ32h7+VOrY6f7+f6S1pJA+W2e07YQEXOKQP1RHkrsWoqi1RgU7FnBkBE/1SbAW\nwzlRImnJMRiKVpjUcRR8tgRqUIFXzkbTz2WRTy6NP42jXNAJ8LsAzjgRCHKJHH0M\nOK30Hnsn+i2nEk1pXr3V/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rakacloud@silicon-smithy-364213.iam.gserviceaccount.com",
+  "client_id": "107116417656141635078",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rakacloud%40silicon-smithy-364213.iam.gserviceaccount.com"
+}

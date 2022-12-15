@@ -189,9 +189,9 @@ class BukuController extends Controller
         $delete->delete($delete);
 
         if ($delete) {
-            return redirect('home')->with('success', 'Sukses Delete Buku');
+            return redirect('home')->with('success', 'Sukses Delete Game');
         } else {
-            return redirect('home')->with('error', 'Gagal Delete Buku');
+            return redirect('home')->with('error', 'Gagal Delete Game');
         }
     }
 
